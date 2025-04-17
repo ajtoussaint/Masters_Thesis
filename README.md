@@ -15,3 +15,12 @@ A repository containing the code used in experiments described in my master's th
 - ASSISTments2012:https://sites.google.com/site/assistmentsdata/datasets/2012-13-school-data-with-affect
 - NeurIPS202:https://eedi.com/us/projects/neurips-education-challenge
 - junyi2015: https://pslcdatashop.web.cmu.edu/DatasetInfo?datasetId=1198
+- IRT, NCDM, KaNCD are adapted from implementations provided by: https://github.com/bigdata-ustc/EduCDM
+@misc{bigdata2021educdm,
+  title={EduCDM},
+  author={bigdata-ustc},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  year = {2021},
+  howpublished = {\url{https://github.com/bigdata-ustc/EduCDM}},
+}
