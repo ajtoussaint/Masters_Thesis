@@ -9,6 +9,7 @@ A repository containing the code used in experiments described in my master's th
 - Graphics.ipynb: notebook to generate graphics describing the results
 - models: Includes python files with implementation of each cognitive diagnosis model.
 - data: prepared directories for each dataset. Datasets themselves are not included. To be able to use this repository download one of the datasets from the host source and include it within its respective directory in a sub directory labeled data. Sources can be found below:
+- paper: includes raw latex file, bibtex file, and pdf final version of the thesis.
 
 - ASSISTments2009:https://sites.google.com/site/assistmentsdata/home/2009-2010-assistment-data
 - ASSISTments2012:https://sites.google.com/site/assistmentsdata/datasets/2012-13-school-data-with-affect
